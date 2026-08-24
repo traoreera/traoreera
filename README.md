@@ -1,5 +1,5 @@
 # Era Traore — Software & IoT Engineer
-[![committers.top badge](https://user-badge.committers.top/burkina_faso/USERNAME.svg)](https://user-badge.committers.top/burkina_faso/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/burkina_faso/traoreera.svg)](https://user-badge.committers.top/burkina_faso/traoreera)
 
 
 Embedded systems and backend engineer specialized in **industrial IoT**,  
