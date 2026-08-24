@@ -1,4 +1,6 @@
 # Era Traore — Software & IoT Engineer
+[![committers.top badge](https://user-badge.committers.top/burkina_faso/USERNAME.svg)](https://user-badge.committers.top/burkina_faso/USERNAME)
+
 
 Embedded systems and backend engineer specialized in **industrial IoT**,  
 with strong experience in **ESP32**, **FastAPI**, and **production-grade systems**.
