@@ -20,4 +20,4 @@ I focus on building **robust, scalable and maintainable solutions** under real-w
 
 📍 Ouagadougou, Burkina Faso  
 🌍 Open to remote opportunities  
-📬 contact@tangagroup.com
+📬 traoreera@gmail.com | xcore@xcorehub.dev
